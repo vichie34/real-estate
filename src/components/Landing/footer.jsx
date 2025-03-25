@@ -12,7 +12,7 @@ export default function Footer() {
                     </div>
                     <div className="flex items-center gap-3">
                         <button className="px-4 py-1.5 text-sm text-white">Learn More</button>
-                        <button className="px-4 py-1.5 text-sm bg-[#7C3AED] text-white rounded-md">Get Started</button>
+                        <button className="px-4 py-1.5 text-sm bg-[#4682B4] text-white rounded-md">Get Started</button>
                     </div>
                 </div>
 
@@ -23,7 +23,7 @@ export default function Footer() {
                         <div className="flex items-center gap-2 mb-6">
                             <svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
                                 <polygon points="16,4 28,8 28,24 16,28 4,24 4,8" fill="#FFFFFF" />
-                                <text x="50%" y="50%" text-anchor="middle" fill="#A03433" font-size="4" dy=".3em">TERM</text>
+                                <text x="50%" y="50%" text-anchor="middle" fill="#A03433" font-size="4" dy=".3em">MdN</text>
                             </svg>
                             <span className="text-white font-semibold">Medallion</span>
                         </div>

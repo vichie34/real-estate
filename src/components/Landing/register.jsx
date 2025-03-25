@@ -5,12 +5,12 @@ const Register = () => {
     return (
         <div className="flex items-center justify-center min-h-screen bg-[#ccc]">
             <div className="bg-white shadow-md rounded-lg px-20 py-10 max-w-[605px] w-full">
-                <div className="flex items-center justify-center m-5">
+                <div className="flex items-center justify-center m-1">
                     {/* <img src="/src/assets/Frame 5.png" alt="" /> */}
                     <div className="flex items-center gap-2 mb-6">
                         <svg width="102" height="92" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-                            <polygon points="16,4 28,8 28,24 16,28 4,24 4,8" fill="#FFFFFF" />
-                            <text x="50%" y="50%" text-anchor="middle" fill="#A03433" font-size="4" dy=".3em">KING</text>
+                            <polygon points="16,4 28,8 28,24 16,28 4,24 4,8" fill="#cccc" />
+                            <text x="50%" y="50%" text-anchor="middle" fill="#A03433" font-size="4" dy=".3em">MdN</text>
                         </svg>
                         <span className="text-[#000] font-semibold">Medallion</span>
                     </div>
@@ -72,7 +72,7 @@ const Register = () => {
                     </div>
                     <button
                         type="submit"
-                        className="w-full mt-4 bg-[#7C3AED] text-white py-2 rounded-lg hover:bg-purple-700 focus:outline-none focus:ring focus:ring-purple-300"
+                        className="w-full mt-4 bg-[#4682B4] text-white py-2 rounded-lg hover:bg-purple-700 focus:outline-none focus:ring focus:ring-purple-300"
                     >
                         Create Account
                     </button>
