@@ -6,10 +6,17 @@ const Register = () => {
         <div className="flex items-center justify-center min-h-screen bg-[#ccc]">
             <div className="bg-white shadow-md rounded-lg px-20 py-10 max-w-[605px] w-full">
                 <div className="flex items-center justify-center m-5">
-                    <img src="/src/assets/Frame 5.png" alt="" />
+                    {/* <img src="/src/assets/Frame 5.png" alt="" /> */}
+                    <div className="flex items-center gap-2 mb-6">
+                        <svg width="102" height="92" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                            <polygon points="16,4 28,8 28,24 16,28 4,24 4,8" fill="#FFFFFF" />
+                            <text x="50%" y="50%" text-anchor="middle" fill="#A03433" font-size="4" dy=".3em">KING</text>
+                        </svg>
+                        <span className="text-[#000] font-semibold">Medallion</span>
+                    </div>
                 </div>
                 <h2 className="text-2xl font-bold text-center">Welcome to</h2>
-                <h1 className="text-3xl font-bold text-center text-gray-800">Brooch</h1>
+                <h1 className="text-3xl font-bold text-center text-gray-800">Medallion</h1>
                 <p className="text-gray-600 text-center mb-4">Enter your information below to continue</p>
 
                 <form>

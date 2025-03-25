@@ -5,7 +5,7 @@ export default function PricingSection() {
     <div className="max-w-6xl mx-auto px-4 py-16 text-black">
       {/* Header */}
       <div className="text-center mb-12 py-5">
-        <h3 className="font-semibold text-[#7C3AED]">Pricing</h3>
+        <h3 className="font-semibold text-[#4682B4]">Pricing</h3>
         <h2 className="text-3xl md:text-3xl lg:text-3xl font-semibold mt-2 mb-4">Plans that fit your scale</h2>
         <p className="text-gray-500">Simple, transparent pricing that grows with you. Try any plan free for 30 days.</p>
       </div>
@@ -27,7 +27,7 @@ export default function PricingSection() {
           </div>
 
           <div className="space-y-4 mb-8">
-            <button className="w-full py-2.5 bg-[#7C3AED] text-white rounded-md text-sm hover:bg-[#6D28D9]">
+            <button className="w-full py-2.5 bg-[#4682B4] text-white rounded-md text-sm hover:bg-[#6D28D9]">
               Get started
             </button>
             <button className="w-full py-2.5 text-gray-600 border border-[#ccc] rounded-md text-sm">Chat to sales</button>
@@ -64,7 +64,7 @@ export default function PricingSection() {
           </div>
 
           <div className="space-y-4 mb-8">
-            <button className="w-full py-2.5 bg-[#7C3AED] text-white rounded-md text-sm hover:bg-[#6D28D9]">
+            <button className="w-full py-2.5 bg-[#4682B4] text-white rounded-md text-sm hover:bg-[#6D28D9]">
               Get started
             </button>
             <button className="w-full py-2.5 text-gray-600 text-sm border border-[#ccc] rounded-md hover:text-gray-900">Chat to sales</button>
@@ -74,19 +74,19 @@ export default function PricingSection() {
             <div className="text-sm font-semibold mb-4">FEATURES</div>
             <ul className="space-y-4">
               <li className="flex items-start gap-3 text-sm text-gray-600">
-                <Check className="h-5 w-5 text-[#7C3AED] shrink-0" />
+                <Check className="h-5 w-5 text-[#4682B4] shrink-0" />
                 <span>Verified listings and profile Access</span>
               </li>
               <li className="flex items-start gap-3 text-sm text-gray-600">
-                <Check className="h-5 w-5 text-[#7C3AED] shrink-0" />
+                <Check className="h-5 w-5 text-[#4682B4] shrink-0" />
                 <span>Access to detailed property insights and trends</span>
               </li>
               <li className="flex items-start gap-3 text-sm text-gray-600">
-                <Check className="h-5 w-5 text-[#7C3AED] shrink-0" />
+                <Check className="h-5 w-5 text-[#4682B4] shrink-0" />
                 <span>Basic AI-powered neighborhood analysis</span>
               </li>
               <li className="flex items-start gap-3 text-sm text-gray-600">
-                <Check className="h-5 w-5 text-[#7C3AED] shrink-0" />
+                <Check className="h-5 w-5 text-[##4682B4] shrink-0" />
                 <span>Ability to showcase properties with custom listings</span>
               </li>
             </ul>
@@ -107,7 +107,7 @@ export default function PricingSection() {
           </div>
 
           <div className="space-y-4 mb-8">
-            <button className="w-full py-2.5 bg-[#7C3AED] text-white rounded-md text-sm hover:bg-[#6D28D9]">
+            <button className="w-full py-2.5 bg-[#4682B4] text-white rounded-md text-sm hover:bg-[#6D28D9]">
               Get started
             </button>
             <button className="w-full py-2.5 text-gray-600 border border-[#ccc] rounded-md text-sm hover:text-gray-900">Chat to sales</button>

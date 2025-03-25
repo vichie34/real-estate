@@ -7,7 +7,7 @@ import Register from './components/Landing/register';
 import AccountType from './components/Landing/account-type';
 import PropertyForm from './components/Landing/propertyform';
 import Dashboard from './components/Landing/dashboard';
-// import DashboardLayout from './components/Landing/layout';
+import DashboardLayout from './components/Landing/layout';
 
 
 const App = () => {
@@ -20,7 +20,7 @@ const App = () => {
         <Route path="/accounttype" element={<AccountType />} /> {/* Account type page route */}
         <Route path="/getproperty" element={<PropertyForm />} /> {/*Get property page route */}
         <Route path="/mydashboard" element={<Dashboard />} /> {/*Get dashboard page route*/}
-        {/* <Route path="/dashboard" element={<DashboardLayout />} /> Get property page route */}
+        <Route path="/dashboard" element={<DashboardLayout />} /> Get property page route
       </Routes>
     </Router>
   );

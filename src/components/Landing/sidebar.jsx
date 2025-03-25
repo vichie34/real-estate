@@ -1,6 +1,6 @@
 "use client"
-import Link from "next/link"
-import { usePathname } from "next/navigation"
+// import { Link } from "next/link"
+// import { usePathname } from "next/navigation"
 import { LayoutDashboard, BarChart2, Settings, Users, CreditCard, ChevronDown } from "lucide-react"
 
 const sidebarLinks = [

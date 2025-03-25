@@ -185,7 +185,7 @@ export default function AccountType() {
                         fill="#000"
                     />
                 </svg>
-                <span className="ml-2">Brooch</span>
+                <span className="ml-2">Medallion</span>
             </div>
 
             {/* Main Content */}

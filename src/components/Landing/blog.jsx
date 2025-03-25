@@ -3,8 +3,8 @@ export default function WhyTrust() {
     <div className="max-w-6xl mx-auto px-4 py-[4rem]">
       {/* Header */}
       <div className="text-center mb-12">
-        <h2 className="bg-[#ccc] text-[#7C3AED] font-semibold px-1 py-2 w-[100px] mx-auto mb-[2rem] mt-[-4rem] rounded-full">Features</h2>
-        <h2 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-2">Why Trust King'sCourt?</h2>
+        <h2 className="bg-[#ccc] text-[#4682B4] font-semibold px-1 py-2 w-[100px] mx-auto mb-[2rem] mt-[-4rem] rounded-full">Features</h2>
+        <h2 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-2">Why Trust Medallion?</h2>
         <p className="text-gray-500">Discover how it simplifies your real estate journey</p>
       </div>
 

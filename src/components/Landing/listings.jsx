@@ -8,7 +8,7 @@ export default function PropertyListings() {
       <div className="max-w-6xl mx-auto px-3 py-[8rem]">
         {/* Header Section */}
         <div className="text-center mb-6">
-          <h4 className="text-[#5D3B8C] font-semibold">Your Preference</h4>
+          <h4 className="text-[#4682B4] font-semibold">Your Preference</h4>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-semibold mb-1">Lastest Listings</h2>
           <p className="text-gray-500 text-sm">Based on your recent searches</p>
         </div>
@@ -30,7 +30,7 @@ export default function PropertyListings() {
 
         {/* View More Button */}
         <div className="text-center">
-          <button className="px-6 py-2 bg-[#7C3AED] text-white mx-12 mt-[8rem] rounded-md text-sm hover:bg-purple-700">
+          <button className="px-6 py-2 bg-[#4682B4] text-white mx-12 mt-[8rem] rounded-md text-sm hover:bg-purple-700">
             View more
           </button>
         </div>

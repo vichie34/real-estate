@@ -11,7 +11,7 @@ export default function MarketInsights() {
           </div>
           <div className="flex items-center gap-4">
             <button className="text-sm px-6 py-2 border border-[#ccc] text-black font-semibold rounded-md text-sm hover:bg-purple-700">Learn More</button>
-            <button className="px-4 py-1.5 bg-[#7C3AED] text-white rounded-md text-sm">Get Started</button>
+            <button className="px-4 py-1.5 bg-[#4682B4] text-white rounded-md text-sm">Get Started</button>
           </div>
         </div>
   

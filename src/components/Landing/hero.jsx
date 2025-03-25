@@ -10,7 +10,7 @@ const Hero = () => {
           The REAL ESTATE <br className="hidden md:block" /> Market Place
         </h2>
         <p className="font-light text-sm md:text-md lg:text-lg mt-2 leading-relaxed">
-          King'sCourt connects you with the person that knows <br className="hidden md:block" />
+          Medallion connects you with the person that knows <br className="hidden md:block" />
           best about a property, the listing agent.
         </p>
       </div>

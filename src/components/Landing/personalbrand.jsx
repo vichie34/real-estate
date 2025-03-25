@@ -52,7 +52,7 @@ export default function PersonalBrand() {
                     <button className="px-3 mr-3 py-2 border border-[#ccc] font-semibold text-black rounded-md text-sm hover:bg-[#]">
                         Learn More
                     </button>
-                    <button className="px-6 py-2 bg-[#7C3AED] text-white rounded-md text-sm hover:bg-purple-700">
+                    <button className="px-6 py-2 bg-[#4682B4] text-white rounded-md text-sm hover:bg-purple-700">
                         Sign Up
                     </button>
                 </div>

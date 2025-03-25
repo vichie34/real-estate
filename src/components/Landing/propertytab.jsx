@@ -11,7 +11,7 @@ import { useState } from "react";
           <button
             key={tab}
             className={`flex-1 py-2 text-lg font-medium ${
-              selectedTab === tab ? "border-b-4 border-[#7C3AED] text-[#7C3AED]" : "text-black"
+              selectedTab === tab ? "border-b-4 border-[#4682B4] text-[#4682B4]" : "text-black"
             }`}
             onClick={() => setSelectedTab(tab)}
           >
@@ -40,7 +40,7 @@ import { useState } from "react";
         </div>
 
         {/* Browse Button */}
-        <button className="bg-[#7C3AED] text-white px-4 py-2 rounded-md">
+        <button className="bg-[#87CEEB] text-white px-4 py-2 rounded-md">
           Browse Properties
         </button>
       </div>
