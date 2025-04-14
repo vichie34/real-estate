@@ -5,7 +5,7 @@ export default function HowItWorks() {
     <div className="bg-[#4682B4] py-16">
       <div className="max-w-6xl mx-auto px-4">
         {/* Header */}
-        <h2 className="text-3xl md:text-4xl lg:text-4xl text-white text-2xl font-semibold text-center mb-12">How King'sCourt Works?</h2>
+        <h2 className="text-3xl md:text-4xl lg:text-4xl text-white text-2xl font-semibold text-center mb-12">How Medallion Works?</h2>
 
         {/* Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-16">

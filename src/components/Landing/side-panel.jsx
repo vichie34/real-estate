@@ -1,5 +1,5 @@
 import { Bell, X } from "lucide-react"
-// import { Card } from "@/components/ui/card"
+import { Card } from "@/components/ui/card"
 import Card from "./UI/card"
 
 const notifications = [
